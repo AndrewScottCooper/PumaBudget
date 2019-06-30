@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<UserDataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Transactions>
+    <Transaction>
+      <Type>expense</Type>
+      <Amount>50</Amount>
+      <GetName>Test</GetName>
+      <GetDesc>Just a test</GetDesc>
+      <GetFullDate>06/29/2019</GetFullDate>
+    </Transaction>
+  </Transactions>
+  <Stocks>
+    <Stock>
+      <GetInvestName>TSLA</GetInvestName>
+      <GetStockCount>4</GetStockCount>
+      <GetInvestWorth>1680</GetInvestWorth>
+      <GetMarketValue>420</GetMarketValue>
+    </Stock>
+  </Stocks>
+  <Goals>
+    <float>1000</float>
+    <float>500</float>
+    <float>200</float>
+  </Goals>
+</UserDataBase>
