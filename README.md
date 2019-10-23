@@ -11,6 +11,6 @@ To refresh the graphs on the main overview page, restart the program. It's annoy
 
 Like I said there are many ways to break this program. If for whatever reason you find this before those changes are made and want to take a look, just keep that in mind. Or try to find new creative ways to break it and I'll do my best to fix those problems quickly.
 
-Starting a new project for July, many small fixes will be realased in the next day or two. And the addition of realtime stockmarket prices and browsing will come sometime in Aug/Sept.
+This is a dead projcet made from a bet with mysister in the fastest time possible. I will get around to polishing it up sometime, but am currently working on bigger more important projects. Hopefully no one sees this. If you do Im sorry.
 
 -Andrew
